@@ -8,7 +8,7 @@ Tenho como missão desenvolver novos sistemas e dar sustentação em sistemas ex
 * Implementar as metodologias do Test-Driven Development (TDD), Behavior-Driven Development (BDD), Testes de Integração, Testes Automatizados e Testes de Carga, para garantir a qualidade, performance e confiabilidade dos sistemas;
 * E ser uma referência técnica para o time e motivar positivamente o ambiente.
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/leonardogm85/)](https://github.com/leonardogm85/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardogm85/)](https://www.linkedin.com/in/leonardogm85/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonardogm85/)](https://www.instagram.com/leonardogm85/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardogm85/)](https://www.facebook.com/leonardogm85/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/leonardogm85/)](https://github.com/leonardogm85/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardogm85/)](https://www.linkedin.com/in/leonardogm85/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leonardogm85/)](https://www.instagram.com/leonardogm85/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardogm85/)](https://www.facebook.com/leonardogm85/)
