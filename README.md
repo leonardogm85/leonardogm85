@@ -1,4 +1,4 @@
-## Sobre mim
+### Sobre mim
 
 Sou um profissional com experiência na área de análise e desenvolvimento de sistemas usando a plataforma .NET, atuo planejando, avaliando e executando o desenvolvimento de novos aplicativos (com as tecnologias Web API, MVC, Angular, React, C#), na manutenção dos softwares já existentes (com as tecnologias Web Forms, ASP, VB), na migração de projetos legados e na integração com outros sistemas.
 
